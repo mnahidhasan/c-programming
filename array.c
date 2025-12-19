@@ -9,6 +9,8 @@ int main() {
     // Changing the value of the third element (index 2)
     myNumbers[2] = 90;
     printf("%d\n", myNumbers[2]); // Output: 90
+
+    printf("Hello");
     
     return 0;
 }
